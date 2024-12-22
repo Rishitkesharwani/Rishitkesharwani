@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishitkesharwani&label=Profile%20views&color=green&style=flat" alt="Profile Views" />
 </p>
+
 - 📫 Reach me at: **rishitkesharwani@gmail.com**  
+
 - 📄 Explore my experiences: [View Resume](https://www.overleaf.com/read/qynpxfvmqbdm#ffce1d)  
 
 ---
@@ -74,11 +76,11 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishitkesharwani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishitkesharwani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitkesharwani&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishitkesharwani&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitkesharwani&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitkesharwani&theme=radical" alt="GitHub Streak" />
 </p>
