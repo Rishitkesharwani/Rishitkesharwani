@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishitkesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rishitkesharwani&label=Profile%20views&color=green&style=flat" alt="Profile Views" />
 </p>
-
-- 🌐 Check out my portfolio: [rishitkesharwani](https://rishitkesharwani)  
 - 📫 Reach me at: **rishitkesharwani@gmail.com**  
 - 📄 Explore my experiences: [View Resume](https://www.overleaf.com/read/qynpxfvmqbdm#ffce1d)  
 
