@@ -1,3 +1,7 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishitkesharwani&show_icons=true&locale=en&layout=compact&theme=radical" alt="rishitkesharwani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitkesharwani&show_icons=true&locale=en&theme=radical" alt="rishitkesharwani" /></p>
+
 <h1 align="center">Hi 👋, I'm Rishit Kesharwani</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
