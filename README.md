@@ -7,7 +7,7 @@
 
 - 📫 Reach me at: **rishitkesharwani@gmail.com**  
 
-- 📄 Explore my experiences: [View Resume](https://www.overleaf.com/read/qynpxfvmqbdm#ffce1d)  
+- 📄 Explore my experiences: [View Resume]([https://www.overleaf.com/read/qynpxfvmqbdm#ffce1d](https://drive.google.com/file/d/1S0pY46T-zp8RyR-nCtExNBpdPjwfTaqx/view?usp=sharing))  
 
 ---
 
