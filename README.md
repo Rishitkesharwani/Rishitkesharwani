@@ -53,7 +53,7 @@
 ### 🗄️ **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Databricks_Icon.png" height="45"/>
+  <img src="https://i.imgur.com/3Y1Z4ZC.png" height="45"/>
 
 </p>
 
