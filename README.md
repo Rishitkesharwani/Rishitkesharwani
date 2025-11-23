@@ -14,7 +14,7 @@
 📈 Continuously learning and exploring new tools and cloud services.
 
 - 📫 **Reach me at:** `rishitkesharwani@gmail.com`  
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1S0pY46T-zp8RyR-nCtExNBpdPjwfTaqx/view?usp=sharing)
+- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Ie9axaL1GbzHGS0SFj4eyS_zpC4SFrHF/view?usp=sharing)
 
 ---
 
