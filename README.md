@@ -53,12 +53,11 @@
 ### 🗄️ **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Databricks_Icon.png" height="45"/>
+
 </p>
 
-### 🔥 **New Skill Added: Databricks**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/databricks/branding/master/databricks-logo.png" height="45"/>
-</p>
+
 
 ---
 
