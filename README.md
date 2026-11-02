@@ -14,13 +14,13 @@
 📈 Continuously learning and exploring new tools and cloud services.
 
 - 📫 **Reach me at:** `rishitkesharwani@gmail.com`  
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Ie9axaL1GbzHGS0SFj4eyS_zpC4SFrHF/view?usp=sharing)
+- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1DnilJThRw9loZEOXYNtq-fHq-_RL4I90/view?usp=sharing)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rishit-kesharwani-9a9992252" target="_blank">
+  <a href="https://www.linkedin.com/in/rishitkesharwani/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   <a href="https://www.hackerrank.com/rishitkesharwani" target="_blank">
